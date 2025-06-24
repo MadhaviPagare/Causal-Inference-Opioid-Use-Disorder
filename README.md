@@ -22,6 +22,7 @@ Applied the Siamese Neural Network for these determinants.
 Output used for the final causal effect summary table.
 
 Baseline Without Siamese Neural Network
+
 5. Traditional Causal Inference -Inverse Probability weight(IPW)
 Performed causal effect estimation without using the Siamese Neural Network.
 
